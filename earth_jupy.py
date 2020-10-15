@@ -92,7 +92,7 @@ request_true_color = SentinelHubRequest(
 # In[21]:
 
 
-my_gis = GIS("https://www.arcgis.com", "maniGIS", "nosleep322")
+my_gis = GIS("", "", "")
 m = my_gis.map()
 m
 data_path = (r"./Sentinel/00da87d4e771b8b8b30e2d1ac70e1390")
